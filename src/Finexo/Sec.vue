@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-6">
               <div class="img-box">
-                <img src="@/assets/assets/images/slider-img.png" alt="">
+                <img src="@/assets/finexo/images/slider-img.png" alt="">
               </div>
             </div>
           </div>
