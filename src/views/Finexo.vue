@@ -1,18 +1,18 @@
 <template>
     <div>
-         <Head/>
+         <Headr/>
          <Sec/>
          <Foot/>
     </div>
 </template>
 <script>
-import Head from '@/Finexo/Head.vue';
+import Headr from '@/Finexo/Headr.vue';
 import Sec from '@/Finexo/Sec.vue';
 import Foot from '@/Finexo/Foot.vue';
 export default{
     name: 'Finexo',
     components: {
-        Head,
+        Headr,
         Sec,
         Foot,
     },
