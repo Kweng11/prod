@@ -249,7 +249,9 @@
 	              <span class="author"><i class="fas fa-user"></i> Admin</span>
 	              <span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
 	            </p>
-	            <p class="excerpt">Vivamus lacus enim, pulvinar vel nulla sed, scelerisque rhoncus nisi. Praesent vitae mattis nunc, egestas viverra eros.</p>
+	            <p class="excerpt">An especially repellent, undesirable, or unpleasant person or thing. 
+			    The would-be summer blockbuster is just another dumb, boring, CGI-laden rotten tomato.
+			    Tom's always been a rotten tomato, though. Even in school, he was the kid who went out of his way to cause trouble for others.</p>
 	            <a href="single-news.html" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
 	          </div>
 	      </div>
